@@ -36,7 +36,7 @@ How Participation influences performance
 
 Visualize data trends using plots and graphs
 
-## Conclusion or Observations
+## Conclusion
 
 Positive correlation between StudyHours and TestScore
 
